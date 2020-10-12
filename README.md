@@ -4,13 +4,9 @@ A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is my first project in flutter : 
 
-A few resources to get you started if this is your first Flutter project:
+1- i use rest api to get data
+2- create custom view / widget for this flutter app to show blog and categories
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
